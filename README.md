@@ -1,4 +1,3 @@
-# scala-designpatterns
-
-A comparison between design Patterns in Java and Scala 
 # akka-shifumi
+
+Des acteurs akka s'affrontent au shifumi sous le regard d'un arbitre
